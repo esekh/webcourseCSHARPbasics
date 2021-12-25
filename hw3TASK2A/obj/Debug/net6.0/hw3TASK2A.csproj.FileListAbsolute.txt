@@ -1,0 +1,15 @@
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\bin\Debug\net6.0\hw3TASK2A.exe
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\bin\Debug\net6.0\hw3TASK2A.deps.json
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\bin\Debug\net6.0\hw3TASK2A.runtimeconfig.json
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\bin\Debug\net6.0\hw3TASK2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\bin\Debug\net6.0\ref\hw3TASK2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\bin\Debug\net6.0\hw3TASK2A.pdb
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.csproj.AssemblyReference.cache
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.AssemblyInfoInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.AssemblyInfo.cs
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.csproj.CoreCompileInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\ref\hw3TASK2A.dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.pdb
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw3TASK2A\obj\Debug\net6.0\hw3TASK2A.genruntimeconfig.cache

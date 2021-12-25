@@ -1,0 +1,15 @@
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\bin\Debug\net6.0\hw4TASK3(EMPTY).exe
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\bin\Debug\net6.0\hw4TASK3(EMPTY).deps.json
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\bin\Debug\net6.0\hw4TASK3(EMPTY).runtimeconfig.json
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\bin\Debug\net6.0\hw4TASK3(EMPTY).dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\bin\Debug\net6.0\ref\hw4TASK3(EMPTY).dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\bin\Debug\net6.0\hw4TASK3(EMPTY).pdb
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).csproj.AssemblyReference.cache
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).AssemblyInfoInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).AssemblyInfo.cs
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).csproj.CoreCompileInputs.cache
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\ref\hw4TASK3(EMPTY).dll
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).pdb
+C:\Users\SHOK\Desktop\Rarka\GB\webcourseCSHARPbasics\hw4TASK3(EMPTY)\obj\Debug\net6.0\hw4TASK3(EMPTY).genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw3TASK2A/1.0.0": {
+        "runtime": {
+          "hw3TASK2A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw3TASK2A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
