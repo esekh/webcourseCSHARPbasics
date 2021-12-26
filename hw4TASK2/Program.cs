@@ -15,7 +15,7 @@ class Program
         ArrOper.Print();
 
         ArrOper.NoFile("Task.txt");
-        // Для проверки с существующим файлом — заменяется строка с методом NoFile
+        // Для проверки с существующим файлом — заменяется строка с методом NoFile:
         // int[] TextFFile = ArrOper.ArrayFromFile("TextForTask2.txt");
         // for (int i = 0; i < TextFFile.Length; i++)
         //{
