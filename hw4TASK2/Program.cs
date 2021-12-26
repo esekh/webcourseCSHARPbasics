@@ -12,13 +12,15 @@ class Program
         LogicTask2 ArrOper = new();
 
         ArrOper.Method2(ArrOper.arr2, 0, 100);
-        ArrOper.Print();        
+        ArrOper.Print();
 
-        int[] TextFFile = ArrOper.ArrayFromFile("TextForTask2.txt");
-        for (int i = 0; i < TextFFile.Length; i++)
-        {
-            Console.WriteLine(TextFFile[i]);
-        }
+        ArrOper.NoFile("Task.txt");
+        // Для проверки с существующим файлом — заменяется строка с методом NoFile
+        // int[] TextFFile = ArrOper.ArrayFromFile("TextForTask2.txt");
+        // for (int i = 0; i < TextFFile.Length; i++)
+        //{
+        //    Console.WriteLine(TextFFile[i]);
+        //}
     }
 }
 

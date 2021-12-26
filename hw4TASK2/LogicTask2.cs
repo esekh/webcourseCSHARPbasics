@@ -1,5 +1,6 @@
 class LogicTask2
 {
+    // Задание №2.а)
     public int[] arr2 = new int[20];
 
     public void Method2(int[] arrOther, int from, int to)
@@ -19,7 +20,7 @@ class LogicTask2
         Console.WriteLine();
     }
 
-    // пункт б
+    // Задание №2.б)
     public int[] ArrayFromFile(string adress)
     {
         string Text = File.ReadAllText(adress);
@@ -29,4 +30,25 @@ class LogicTask2
 
         return NewArray;
     }
+  
+    // Задание №2.в)
+   public void NoFile(string adress)
+   {
+   bool flag = false;
+    do
+    {
+        try
+        {
+             flag = true;
+             // При проверке с существующим файлом устанавливала false
+             string Text = File.ReadAllText(adress);
+        }
+        catch (System.Exception)
+        {
+        Console.WriteLine("Такого файла не существует. Укажите корректный путь до файла: ");
+        adress = Console.ReadLine();
+        }
+    } while (!flag);
+    // При проверке с существующим файлом устанавливала (flag)
+   }
 }
