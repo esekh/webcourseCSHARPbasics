@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj": {}
+    "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj": {
+    "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj",
+        "projectUniqueName": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj",
         "projectName": "hw5TASK4(EMPTY)",
-        "projectPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj",
+        "projectPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\hw5TASK4(EMPTY).csproj",
         "packagesPath": "C:\\Users\\SHOK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\obj\\",
+        "outputPath": "C:\\Users\\SHOK\\Desktop\\Rarka\\GB\\webcourseCSHARPbasics\\webcourseCSHARPbasics\\hw5TASK4(EMPTY)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
